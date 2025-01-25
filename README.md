@@ -24,11 +24,7 @@ How to Use
    ```sh
    git clone https://github.com/your-username/Weather_Impact_on_Sales.git](https://github.com/RobinHood-cloud/Weather_Impact_on_Sales.git
    ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Open the Jupyter notebook to explore the analysis:
+2. Open the Jupyter notebook to explore the analysis:
    ```sh
    jupyter notebook
    ```
